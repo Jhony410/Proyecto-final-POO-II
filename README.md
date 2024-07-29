@@ -5,9 +5,9 @@ Presentamos el trabajo encargado sobre el análisis de datos meteorológicos en 
 
 ## Autores
 
-- Jhon Elias Aguilar Anccori (Email: jhonykey1415@gmail.com)
-- Ever Pacha Sayhua (Email: everpachasayhua@gmail.com)
-- William Yeferson Condori Quispe (Email: williamyeferson71@gmail.com)
+- Jhon Elias Aguilar Anccori (230433)
+- Ever Pacha Sayhua (229665)
+- William Yeferson Condori Quispe (230320)
 
 
 ### Confguración del entorno ###
@@ -31,34 +31,8 @@ Serán necesarias algunas librerías adicionales:
 * from sklearn.preprocessing import PolynomialFeatures
 * from sqlalchemy import create_engine
 
+### Conclusión
 
-#### Ejecución web - Colaboratory
+Este proyecto demuestra un enfoque robusto y multifacético para el análisis de datos meteorológicos, combinando técnicas de programación, bases de datos y análisis predictivo. La integración de estas herramientas permite una comprensión más profunda del comportamiento climático en el Perú y ofrece un sistema flexible y extensible para la gestión y análisis de grandes volúmenes de datos meteorológicos. El uso de IA para predicciones futuras agrega un valor significativo al permitir una planificación más eficaz basada en datos históricos. Es factible poder modificar la base de datos y tambi´en poder actualizarlos al presente en el que estamos.
 
-Las librerías con las que trabajaremos ya están instaladas en colaboratory, pero en caso de que no puedan importarlas o que no sea la versión correcta, pueden seguir [las instrucciones oficiales](https://colab.research.google.com/notebooks/snippets/importing_libraries.ipynb) para agregarlas.
-
-#### Entorno local
-
-Con el entorno de conda activado, ejecutar:
-
-```bash
-$ conda install -c conda-forge cufflinks-py
-$ conda install -c conda-forge missingno
-```
-
-Para instalar plotly, pueden seguir las [instrucciones oficiales](https://plotly.com/python/getting-started/#installation). Sin embargo, configurar el entorno `jupyter-lab` o `jupyter-notebook` para que efectivamente muestre los gráficos requiere pasos adicionales, también incluidos en la [documentación](https://plotly.com/python/getting-started/#jupyter-notebook-support). Sin embargo, no pudimos hacerlo funcionar en jupyter-lab :( 
-
-### Profesores ###
-
-Teórico con:
-* Georgina Flesia
-* Ariel Wolfmann
-
-Práctico con:
-* Aldana González Montoro
-* Rocio Fonseca
-* Nehuen González Montoro
-* Mario Agustín Sgró
-* Alejandro Garcia
-* Facundo Godoy
-* Josefina Meirovich
-* Laura Montes
+La explicación de los pasos realizados por parte de cada integrante se subirá en el video  [Video explicando](https://plotly.com/python/getting-started/#installation). y los códigos usados.
