@@ -1,19 +1,36 @@
 # Proyecto Final
 
-Repositorio para la materia de Exploración y Curación de Datos de #DiploDatos de FaMAF - UNC. Más info en esta [página](http://diplodatos.famaf.unc.edu.ar/analisis-y-curacion-de-datos/)
+Presentamos el trabajo encargado sobre el análisis de datos meteorológicos en el Perú con Python, utilizando Python, Tkinter, MySQL y Google Colab (para realizar algunas pruebas). El sistema facilita el registro, búsqueda y visualización de datos, así como la generación de gráficos mensuales y una posible predicción para el mes siguiente gracias a la IA, basándose en los datos previos.
+
+
+## Autores
+
+- Jhon Elias Aguilar Anccori (Email: jhonykey1415@gmail.com)
+- Ever Pacha Sayhua (Email: everpachasayhua@gmail.com)
+- William Yeferson Condori Quispe (Email: williamyeferson71@gmail.com)
+
 
 ### Confguración del entorno ###
 
-Durante esta materia utilizaremos los mismos entornos de ejecución que en la materia anterior Análisis y Visualización. Pueden consultar las instrucciones de configuración en el [repositorio correspondiente](https://github.com/DiploDatos/AnalisisyVisualizacion/).
+Para la utilización del código y las diferentes acciones que se realizan en el código principal, necesitamos lo siguiente. 
 
 Serán necesarias algunas librerías adicionales:
-  * missingno
-  * cufflinks-py
-  * plotly==4.14.3
-  * sklearn
-  * opcional: miceforest
-  * opcional: Missforest
-  * opcional: Datawig
+* import os
+* import mysql.connector
+* import pandas as pd
+* from mysql.connector import Error
+* from tkinter import Tk, Frame, Label, Button, Entry, messagebox, PhotoImage
+* from tkinter import ttk
+* from tkcalendar import DateEntry
+* import matplotlib.pyplot as plt
+* import seaborn as sns
+* import numpy as np
+* from sklearn.model_selection import train_test_split
+* from sklearn.linear_model import LinearRegression
+* from sklearn.metrics import mean_squared_error
+* from sklearn.preprocessing import PolynomialFeatures
+* from sqlalchemy import create_engine
+
 
 #### Ejecución web - Colaboratory
 
