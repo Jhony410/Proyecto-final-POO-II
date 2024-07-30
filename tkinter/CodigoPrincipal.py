@@ -1,3 +1,7 @@
+'''
+Maneja con base datos
+'''
+
 import os
 import mysql.connector
 import pandas as pd
