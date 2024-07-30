@@ -1,3 +1,7 @@
+UNIVERSIDAD NACIONAL DEL ALTIPLANO PUNO
+FACULTAS DE INGENIERIA ELECTRICA, ELECTRONICA Y SISTEMAS
+ESCUELA PROFESIONAL DE INGENIERIA DE SISTEMAS
+
 # Proyecto Final
 
 Presentamos el trabajo encargado sobre el análisis de datos meteorológicos en el Perú con Python, utilizando Python, Tkinter, MySQL y Google Colab (para realizar algunas pruebas). El sistema facilita el registro, búsqueda y visualización de datos, así como la generación de gráficos mensuales y una posible predicción para el mes siguiente gracias a la IA, basándose en los datos previos. [SENAMHI](https://www.senamhi.gob.pe/?&p=estaciones).
