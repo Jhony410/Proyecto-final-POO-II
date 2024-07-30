@@ -35,4 +35,5 @@ Serán necesarias algunas librerías adicionales:
 
 Este proyecto demuestra un enfoque robusto y multifacético para el análisis de datos meteorológicos, combinando técnicas de programación, bases de datos y análisis predictivo. La integración de estas herramientas permite una comprensión más profunda del comportamiento climático en el Perú y ofrece un sistema flexible y extensible para la gestión y análisis de grandes volúmenes de datos meteorológicos. El uso de IA para predicciones futuras agrega un valor significativo al permitir una planificación más eficaz basada en datos históricos. Es factible poder modificar la base de datos y tambi´en poder actualizarlos al presente en el que estamos.
 
-La explicación de los pasos realizados por parte de cada integrante se subirá en el video  [Video explicando](https://plotly.com/python/getting-started/#installation). y los códigos usados.
+### Video
+La explicación de los pasos realizados por parte de cada integrante se subirá en el video  [Video explicando](https://www.youtube.com/watch?v=ED3IKcMK6aY&ab_channel=JhonyAguilar). y los códigos usados.
