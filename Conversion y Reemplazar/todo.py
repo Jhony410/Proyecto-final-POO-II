@@ -1,3 +1,7 @@
+'''
+Código principal que estará junto a ‘modificar.py’ para que pueda realizar cambios de archivos CSV a EXCEL e incluso poder buscar y reemplazar palabras (algo pequeño que hace Excel de Microsoft), ya mas adelante se explicara el video.
+'''
+
 import tkinter as tk # Importamos para la interfaz
 from tkinter import filedialog, messagebox # Importamos para la selección de archivos
 import pandas as pd # Importamos para el manejo de datos
