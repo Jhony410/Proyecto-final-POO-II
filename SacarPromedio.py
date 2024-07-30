@@ -1,3 +1,7 @@
+'''
+Este código se usa para poder sacar el promedio por días de algunas tablas, en el cual se explicará más detallada en el video.
+'''
+
 import pandas as pd #Se utiliza para cargar uno de esos archivos CSV en un DataFrame y mostrar sus primeras filas.
 import os #Se utiliza para listar los archivos en el directorio actual y filtrar los archivos CSV
 
